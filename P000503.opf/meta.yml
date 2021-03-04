@@ -1,15 +1,16 @@
-id: opecha:P000503
+id: P000503
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20296
   title: ཀྲུང་གོ་མི་དམངས་འཐུས་མིའི་ཚོགས་ཆེན་གྱི་ལམ་ལུགས།
-  volume:
+  author: ''
+  volumes:
     33687f1b63254db9bd1dac512218ba81:
       image_group_id: I8LS20298
       title: Volume 1 of krung go mi dmangs 'thus mi'i tshogs chen gyi lam lugs/
       volume_number: 1
       total_pages: 195
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཀྲུང་གོ་མི་དམངས་འཐུས་མིའི་ཚོགས་ཆེན་གྱི་ལམ་ལུགས།
   author: ''
